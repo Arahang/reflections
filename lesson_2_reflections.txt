@@ -1,0 +1,4 @@
+Q.What happens when you initialize a repository? Why do you need to do it?
+
+A:when we intialize a repository, a .git file is created which is mostly hidden fromm other file explorers.then only we can commit the changes done on teh files
+
