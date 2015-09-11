@@ -9,8 +9,8 @@ A:it will make me a efficient programmers bcos --it will help me remember what a
 Q.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 
-A: pros-i can commit the data at specific changes which         contains some meaning
-cons-i have to be carefully and make sure to commit the      changes otherwise all changes will be lost 
+A: pros-i can commit the data at specific changes which contains some meaning
+cons-i have to be carefully and make sure to commit the changes otherwise all changes will be lost 
 
 
 Q.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
@@ -24,6 +24,10 @@ A:git log gives all the commit lists with their ids done in the files and git di
 Q.Now that you have your workspace set up, what do you want to try using Git for?
 
 A:dont know
+
+
+
+
  
 
 
