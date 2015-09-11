@@ -1,4 +1,35 @@
 Q.What happens when you initialize a repository? Why do you need to do it?
 
-A:when we intialize a repository, a .git file is created which is mostly hidden fromm other file explorers.then only we can commit the changes done on teh files
+A:when we intialize a repository, a .git file is created which is mostly hidden fromm other file explorers.then only we can commit the changes done on teh files.
+
+Q.How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A:staging area is the place where the files that you need to commit is stored(which are ready to go to the repository),
+working directory is the place where actually the files are located.
+
+Q.How can you use the staging area to make sure you have one commit per logical change?
+
+A: i dont know.
+
+
+Q.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: situations like- when you want to experiment something new but are afraid that you might lose your whole data. 
+
+
+Q.How do the diagrams help you visualize the branch structure?
+
+A: i dont know
+
+Q.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: the contents of the two branches are added into a single file..which helps to add additional feature to an exsisting file
+
+Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually? 
+
+A: i dont know
+
+
+
+
 
